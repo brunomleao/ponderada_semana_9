@@ -1,3 +1,5 @@
+# ponderada_semana_9
+
 Este repositório contém o código da API em Go e os scripts de teste de carga e stress usando a ferramenta k6. A API alvo dos testes está no arquivo `main.go`, enquanto os testes são definidos em diversos scripts JavaScript localizados na pasta `tests/`.
 
 ## Estrutura do Repositório
